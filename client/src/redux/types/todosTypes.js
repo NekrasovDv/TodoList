@@ -1,0 +1,10 @@
+const todosTypes = {
+  GET_ALL_TODO: 'GET_ALL_TODO',
+  ADD_NEW_TODO: 'ADD_NEW_TODO',
+  CHANGE_STATUS: 'CHANGE_STATUS',
+  EDIT_TODO: 'EDIT_TODO',
+  DELETE_TODO: 'DELETE_TODO',
+  DELETE_ALL_TODO: 'DELETE_ALL_TODO',
+}
+
+export default todosTypes
